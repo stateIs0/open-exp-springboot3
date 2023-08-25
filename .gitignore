@@ -40,3 +40,4 @@ build/
 target/
 .idea/
 *.jar
+exp-plugins/
